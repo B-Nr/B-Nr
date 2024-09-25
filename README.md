@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. My name is Baraa and I am from Egypt. I am a CS freshman at Bilkent Uni.
 
 <!--
 **B-Nr/B-Nr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
